@@ -1,5 +1,6 @@
 # Library-Database
 # Buisness Rules:
+<font size="+2">
 An academic library is a well-organized place at college that helps students improve their skills and gives them and the lecturers a proper environment to study and conduct their research. </br>
 1)Each lecturer that teaches at the college has an ID, a name, an email address, a phone number, and teaches one or more courses</br>
 2) Each student has an ID, a name, an email address, a phone number, and a degree such as freshman, sophomore, junior, senior, postgraduate…etc</br>
@@ -16,3 +17,4 @@ An academic library is a well-organized place at college that helps students imp
 13)Librarian can assign as many PCs as he can per day, and a PC can be assigned by only one Librarian.</br>
 14)A publishing house has a publisher-id, a name, a phone number, and an email-address.</br>
 15)A book can be published by one or more publishing houses, a publishing house can publish one or more books.</br>
+</font>
