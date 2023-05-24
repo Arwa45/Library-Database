@@ -1,6 +1,6 @@
 # Library-Database
 # Buisness Rules:
-<font size="+2">
+<font size="+4">
 An academic library is a well-organized place at college that helps students improve their skills and gives them and the lecturers a proper environment to study and conduct their research. </br>
 1)Each lecturer that teaches at the college has an ID, a name, an email address, a phone number, and teaches one or more courses</br>
 2) Each student has an ID, a name, an email address, a phone number, and a degree such as freshman, sophomore, junior, senior, postgraduate…etc</br>
