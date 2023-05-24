@@ -5,7 +5,7 @@ An academic library is a well-organized place at college that helps students imp
 
 1)Each lecturer that teaches at the college has an ID, a name, an email address, a phone number, and teaches one or more courses</br>
 
-2) Each student has an ID, a name, an email address, a phone number, and a degree such as freshman, sophomore, junior, senior, postgraduate…etc</br>
+2)Each student has an ID, a name, an email address, a phone number, and a degree such as freshman, sophomore, junior, senior, postgraduate…etc</br>
 
 3)Each Librarian has an ID, phone number, a name, a shift, and salary.</br>
 
