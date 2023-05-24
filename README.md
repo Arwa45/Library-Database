@@ -47,3 +47,6 @@ So…
 We used the Generalization method.
 We created a new entity called users as a Super class, where a user must be either a lecturer or a student but not both.
 
+# Relational model:
+
+![image](https://github.com/Arwa45/Library-Database/assets/102920573/e2b48863-76d2-4232-b005-06707e98d699)
