@@ -33,3 +33,17 @@
 
 15)A book can be published by one or more publishing houses, a publishing house can publish one or more books.</br>
 </font>
+
+# ERD
+
+![image](https://github.com/Arwa45/Library-Database/assets/102920573/0d6584f6-b3c7-4bec-afbe-26520ca7d0f9)
+
+# EER
+
+![image](https://github.com/Arwa45/Library-Database/assets/102920573/39c20586-d296-4418-a851-323d30017202)
+
+While we were viewing our ERD, we noticed that there are common attributes between 2 entities, the students and the lecturers…
+So…
+We used the Generalization method.
+We created a new entity called users as a Super class, where a user must be either a lecturer or a student but not both.
+
